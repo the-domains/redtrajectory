@@ -1,7 +1,7 @@
 name: redtrajectory
 favicon: null
-layout_spectrum: 0.8037759298458695
-typography_spectrum: 0.534453414613381
+layout_spectrum: 0.41313
+typography_spectrum: 0.38898
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#251b26'
+    - '#584f65'
+    - '#a2a8ce'
+    - '#d2d6f8'
+    - '#d62a47'
   brandStrength: 0.029545619152486324
   lightness: 0.9520104650873691
   saturation: 0.8283928814344108
